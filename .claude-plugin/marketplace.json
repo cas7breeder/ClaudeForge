@@ -8,7 +8,6 @@
       "name": "claudeforge",
       "source": "./",
       "description": "CLAUDE.md generator and maintenance tool",
-      "version": "1.0.0",
       "author": { "name": "alirezarezvani" }
     }
   ]
